@@ -7,6 +7,8 @@ public class SampleTest {
 	@Test
 	public void createUser(){
 		System.out.println("Created successfully");
+		System.out.println("bye");
+		
 	}
 
 }
